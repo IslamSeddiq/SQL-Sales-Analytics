@@ -1,4 +1,4 @@
-# 📱 Mobile Sales & Customer Analytics Dashboard
+# SQL Sales Analytics
 
 # Hi there, I'm Islam Seddiq!👋
 
