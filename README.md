@@ -1,4 +1,5 @@
-# SQL Sales Analytics
+# ![Uploading image.png…]()
+SQL Sales Analytics
 
 # Hi there, I'm Islam Seddiq!👋
 
